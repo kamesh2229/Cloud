@@ -7,3 +7,7 @@ c) Cloud Native Application development
 d) Principles of SA design.
 e) Could Migrations and Hybrid Architecture
 f) SA design patterns
+
+## What is Cloud Computing
+
+

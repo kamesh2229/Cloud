@@ -17,6 +17,8 @@ This brings agility to an idea as procuring, installing and setting up the hardw
 
 # Why we need cloud computing ?
 
+ ## Lets take a real use case when a person gets an idea of starting a new business what exactly it happens where there is no cloud provider and what benifits the user will have with cloud computing
+
 Situation : Let us say some one have an idea of starting a new online business like a small fashon store that sells trendy oufits to different customers.. 
 
 ## What is needed here ?
@@ -103,5 +105,33 @@ Cloud providers can help to provide the needed resources without any prior infor
 As well there are many other managed services being offered by the cloud providers which the users can concentrate on the business and don't need to bother about the HW, power,cooling, patching, network etc.
 
 
+## What are the benifits of cloud computing
 
+Agility :
+
+<img width="149" alt="image" src="https://user-images.githubusercontent.com/31388628/169976196-0aa1d704-ea0a-40b6-abb1-2b492ef677cc.png">
+
+Cloud gives the easy access to variety of services that any one can access and innovate faster and build what has been imagined.Any one can quickly spin-up resources from IaaS like compute, storage, netwkork to other managed services like database, IoT, ML etc.
+
+Any one can deploy technology services with in matter minutes. Cloud gives the freedom to experiment, test new ideas and transform the business.
+
+Elasticity :
+
+<img width="102" alt="image" src="https://user-images.githubusercontent.com/31388628/169977742-9b2a4b74-5725-46e4-8f9b-9a67424fc49b.png">
+
+With cloud there is no need to over-provision of resources upfront to handle peak levels of business activity for future. Users can scale on demand based on the growing business. There is also a flexibility to shrink the resources when not needed this gives the exact benifit of cost optimization.
+
+Cost Savings :
+
+
+
+The cloud allows to trade fixed expenses (such as data centers) to variable expenses and pay only for what has been utilized.With the economies of scale cloud provides the resources at lower cost compared to what one has to set by their own.
+
+
+Deploy globally in minutes :
+
+<img width="130" alt="image" src="https://user-images.githubusercontent.com/31388628/169979856-a995d0bd-f5c8-4129-933d-1e2aa5fa5a98.png">
+
+
+With cloud the business can expand to new geographies and can be deployed in minutes.General any cloud provider will have data centers i.e provide the infrastructure services across the world and users can deploy the needed resources for their business to serve near to the customers locations within minutes or hours.
 

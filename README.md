@@ -54,6 +54,54 @@ The time it takes to launch the website from the time the idea is ignited approx
 
 ## What is the impact ?
 
-1) 
+1)  All the investment made on the HW is wasted
+2)  All the time made is wasted
+3)  All the effort spent on building the website is wasted
+4)  The person is stressed.
+
+## How cloud computing can help ?
+
+As said cloud computing is about utilizing the needed resources like compute, storage, network and many more other services over internet with pay-as-you-go model.
+
+## What this really mean here ?
+
+When a person has an idea then he can register in a cloud provider website like (AWS, Azure or GCP) which absolutely free of cost. Once the registration is done he/she can launch the needed resources for the website creation and utilize as needed. The person can pay only for the time utilized.
+
+In this scenario the below happens.
+
+1) Register in a cloud provider website
+2) Login and explore the needed options required for building the website.
+3) Launch virtual servers called VM's based on the needed capacity like CPU,memory, basic storage etc.
+4) Create a virtual private network which is secured and no one can access the resources without explicit permissions being provided.
+5) Can utilize the natively available DNS server and integrate
+
+## How the user is benifited ?
+
+The user can work on the idea by launching the servers, providing the needed network connectivity and don't bother about procuring the servers, space for installation, network connectivity, cooling, power supply etc.
+
+This makes the life easy to only concentrate on the actual business and how to improve the customer experience and don't need to worry about all other stuff. The cloud provider will take care of the HW provisioning and maintaining.
+
+## What this really means ?
+
+1) Brings agility to the idea. Once the idea is ignited the same can be implemented in hours or couple of days.
+2) No CAPEX needed and can only pay for the time the resources are utilized
+3) No need to hire people for developing the website and setting up the things
+4) No need to buy a Domain Name separately 
+5) No need to buy the power backup equipments etc 
+
+## What is the outcome ?
+
+The user don't need to spend $ 1000 from his/her pocket instead can only spend $ 200 which will reduce the CAPEX by 70% and there is no OPEX at all.
+The idea will be live in couple of days rather than taking months and can capture the market before others.
+The person can experiment with different features by modifying existing resources or add more without any prior approvals and just by doing few clicks.
+
+## What if the idea clicks and the business grows ?
+
+If the idea clicks and the business is running as expected then the person starts getting some ROI (Retrun on Investment) and thinks on expanding the business. This means the user base increases and more traffic is expected to reach the website which the servers has to be scaled.
+
+Cloud providers can help to provide the needed resources without any prior information and can launch as many resources as needed.
+As well there are many other managed services being offered by the cloud providers which the users can concentrate on the business and don't need to bother about the HW, power,cooling, patching, network etc.
+
+
 
 
